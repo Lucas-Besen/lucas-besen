@@ -71,8 +71,8 @@
 <hr></hr>
 
 <p align="left" >
-  <img src="https://github-readme-stats.vercel.app/api?username=lucas-besen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="lucas-besen"/>
-  &nbsp;<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=lucas-besen&show_icons=true&theme=dracula&locale=en&layout=compact" alt="lucas-besen" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lucas-besen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="lucas-besen" width="50%" height="50%"/>
+  &nbsp;<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=lucas-besen&show_icons=true&theme=dracula&locale=en&layout=compact" alt="lucas-besen" width="42%" height="42%"/>
 </p>
 
 ![snake gif](https://github.com/lucas-besen/lucas-besen/blob/output/github-contribution-grid-snake.gif)
