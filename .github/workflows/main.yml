@@ -29,7 +29,6 @@ jobs:
 
     # Generates the snake  
       - uses: Platane/snk@v3
-        id: snake-gif
         with:
           github_user_name: lucas-besen
           # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
