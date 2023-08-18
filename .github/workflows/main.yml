@@ -24,6 +24,8 @@ jobs:
 
     # Checks repo under $GITHUB_WORKSHOP, so your job can access it
       - uses: actions/checkout@v2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
     # Generates the snake  
       - uses: Platane/snk@v3
