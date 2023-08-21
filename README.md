@@ -6,19 +6,19 @@
   <img src="https://img.shields.io/github/followers/Lucas-besen?style=social" alt="lucas-besen" />
 </p>
 
-- 🔭 I’m currently working with **WEB development and android** using React and Node
+- 🔭 I’m currently working with **WEB development and Android** using React and Node
 
-- 🌱 I’m currently learning **Progress 4GL**
+<!-- - 🌱 I’m currently learning **Progress 4GL** -->
 
 - 📫 How to reach me **lucas.andrebesen@gmail.com**
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/lucas-besen" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas-besen" height="30" width="40" />
+  <a href="https://linkedin.com/in/lucas-besen" rel="noreferrer" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin lucas-besen" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/lucas_besen" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucas_besen" height="30" width="40" />
+  <a href="https://instagram.com/lucas_besen" target="_blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram lucas_besen" height="30" width="40" />
   </a>
 </p>
 
